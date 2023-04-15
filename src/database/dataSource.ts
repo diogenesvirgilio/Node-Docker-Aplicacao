@@ -1,4 +1,4 @@
-const dataSource = new DataSource({
+const dataSource = new DataSource ({
   type: "postgres",
   port: 5432,
   username: "docker",
